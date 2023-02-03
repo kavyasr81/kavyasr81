@@ -1,5 +1,6 @@
 <h2>Hi, I'm Kavyasree! </h2>
 I am a highly motivated and detail-oriented data scientist with approximately 2 years of experience in utilizing data to drive business solutions. Adept in statistical modeling, data analysis, and programming with a strong background in machine learning algorithms. I have a proven track record of delivering insights and recommendations to stakeholders, leading data-driven projects, and presenting findings in a clear and concise manner. I am passionate about using data to solve complex problems and drive business success.
+Currently pursuing masters in Busniess Analytics and Project Management at Univeristy of Connecticut, Stamford.
 
 
 
