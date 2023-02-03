@@ -6,7 +6,7 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
 <h3>👨‍💻 My Projects:</h3>
 
 - <b>Machine Learning</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cab booking system](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Deep Learning</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
