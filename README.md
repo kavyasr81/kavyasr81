@@ -9,15 +9,11 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
   - [Bank Customer Churn Prediction (R Project)](https://github.com/kavyasr81/Bank-customer-churn-prediction)
 - <b>Deep Learning</b>
   - [Classifying radio signals using CNN (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/classifying%20radio%20signals(CNN))
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
 - <b>Natual language processing</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 - <b>Case competitions</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
 
 
 <h3> 🤳 Connect with me:</h3>
