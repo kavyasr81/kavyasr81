@@ -1,22 +1,24 @@
 <h2>Hi, I'm Kavyasree! </h2>
+I am a highly motivated and detail-oriented data scientist with approximately 2 years of experience in utilizing data to drive business solutions. Adept in statistical modeling, data analysis, and programming with a strong background in machine learning algorithms. I have a proven track record of delivering insights and recommendations to stakeholders, leading data-driven projects, and presenting findings in a clear and concise manner. I am passionate about using data to solve complex problems and drive business success.
+
+<b>Connect with me<b>
+[linkedin]: https://www.linkedin.com/in/kavyasree2496/
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 My Projects:</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Machine Learning</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Deep Learning</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Natual language processing</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Case competitions</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
