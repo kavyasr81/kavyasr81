@@ -1,4 +1,5 @@
-<h1>Hi, I'm Kavyasree! </h1>
+<h2>Hi, I'm Kavyasree! </h2>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
