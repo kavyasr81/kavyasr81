@@ -8,7 +8,7 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
 - <b>Machine Learning</b>
   - [Bank Customer Churn Prediction (R Project)](https://github.com/kavyasr81/Bank-customer-churn-prediction)
 - <b>Deep Learning</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Classifying radio signals using CNN](https://github.com/kavyasr81/DeepLearning/tree/main/classifying%20radio%20signals(CNN))
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
