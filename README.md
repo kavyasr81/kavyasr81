@@ -11,6 +11,7 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
   - [Classifying radio signals using CNN (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/classifying%20radio%20signals(CNN))
   - [Age,gender and emotion detection using OpenCV (Python)](https://github.com/kavyasr81/age-gender-emotion-detection/tree/main/age%2Cgender%2Cemotion%20detection)
   - [Face mask detection using CNN and OpenCV (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/Face%20Mask%20Dectector)
+  - [Object detection using Mask RCNN (Python)](https://github.com/kavyasr81/Object-detection-using-Mask-RCNN)
 - <b>Natual language processing</b>
   
 - <b>Case competitions</b>
