@@ -13,9 +13,8 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
   - [Face mask detection using CNN and OpenCV (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/Face%20Mask%20Dectector)
   - [Object detection using Mask RCNN (Python)](https://github.com/kavyasr81/Object-detection-using-Mask-RCNN)
 - <b>Natual language processing</b>
-  -
 - <b>Case competitions</b>
-  - 
+
 
 
 <h3> 🤳 Connect with me:</h3>
