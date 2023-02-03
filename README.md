@@ -13,7 +13,7 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
   - [Face mask detection using CNN and OpenCV (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/Face%20Mask%20Dectector)
   - [Object detection using Mask RCNN (Python)](https://github.com/kavyasr81/Object-detection-using-Mask-RCNN)
 - <b>Natual language processing</b>
-  
+  -
 - <b>Case competitions</b>
   - 
 
@@ -26,17 +26,4 @@ I am a highly motivated and detail-oriented data scientist with approximately 2 
 
 [linkedin]: https://www.linkedin.com/in/kavyasree2496/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
