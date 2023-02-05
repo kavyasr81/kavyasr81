@@ -8,6 +8,7 @@ Currently pursuing masters in Busniess Analytics and Project Management at Unive
 
 - <b>Machine Learning</b>
   - [Bank Customer Churn Prediction (R Project)](https://github.com/kavyasr81/Bank-customer-churn-prediction)
+  - [Customer churn analysis for a mobile network company](https://github.com/kavyasr81/Customer-churn-analysis)
 - <b>Deep Learning</b>
   - [Classifying radio signals using CNN (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/classifying%20radio%20signals(CNN))
   - [Age,gender and emotion detection using OpenCV (Python)](https://github.com/kavyasr81/age-gender-emotion-detection/tree/main/age%2Cgender%2Cemotion%20detection)
