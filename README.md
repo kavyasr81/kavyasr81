@@ -16,6 +16,7 @@ Currently pursuing masters in Busniess Analytics and Project Management at Unive
   - [Face mask detection using CNN and OpenCV (Python)](https://github.com/kavyasr81/DeepLearning/tree/main/Face%20Mask%20Dectector)
   - [Object detection using Mask RCNN (Python)](https://github.com/kavyasr81/Object-detection-using-Mask-RCNN)
 - <b>Natual language processing</b>
+- [Sentimental analysis on apple and samsung tweets]()
 - <b>Case competitions</b>
 
 
